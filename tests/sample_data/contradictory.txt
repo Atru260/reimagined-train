@@ -1,0 +1,11 @@
+History:
+Patient denies diabetes.
+
+Past Medical History:
+Type II Diabetes diagnosed 2018.
+
+Current meds:
+Metformin 1000 mg BID.
+
+Assessment:
+Diabetes well controlled.

@@ -1,0 +1,32 @@
+Patient: John Smith
+DOB: 1978-04-15
+
+Chief Complaint:
+Persistent cough x2 weeks.
+
+History of Present Illness:
+45-year-old male presents with productive cough, low-grade fever, and fatigue. Symptoms started approximately two weeks ago after returning from vacation. Denies chest pain or shortness of breath.
+
+Past Medical History:
+Hypertension
+Hyperlipidemia
+
+Medications:
+Lisinopril 20 mg daily
+Atorvastatin 20 mg nightly
+
+Allergies:
+NKDA
+
+Physical Exam:
+Temp 38.1°C
+BP 132/84
+Lungs: Mild crackles right lower lobe
+
+Assessment:
+Community acquired pneumonia.
+
+Plan:
+Start Amoxicillin-Clavulanate 875/125 mg BID for 7 days.
+Increase fluids.
+Return if worsening.

@@ -1,0 +1,9 @@
+Chief complaint:
+Fatigue.
+
+Assessment:
+Iron deficiency anemia.
+
+Plan:
+Ferrous sulfate.
+Repeat CBC in 6 weeks.

@@ -1,0 +1,39 @@
+Reason for Visit:
+Follow-up for hypertension and diabetes.
+
+History:
+Mr. Anderson is a 63-year-old male who returns today for routine follow-up. He reports feeling generally well. Home blood pressure readings average 138/82. Blood sugars range between 120-180 mg/dL. He admits missing medications several times per week.
+
+Review of Systems:
+Negative for chest pain.
+Negative for dyspnea.
+Occasional dizziness when standing.
+
+Past Medical History:
+Type 2 Diabetes
+Hypertension
+Hyperlipidemia
+Obesity
+
+Medications:
+Metformin 1000 mg BID
+Lisinopril 40 mg daily
+Rosuvastatin 20 mg daily
+
+Allergies:
+Penicillin (rash)
+
+Physical Exam:
+BP 142/86
+HR 82
+BMI 33.5
+
+Assessment:
+Hypertension not at goal.
+Diabetes improving.
+Medication noncompliance.
+
+Plan:
+Encourage adherence.
+Continue medications.
+Repeat A1c in 3 months.
